@@ -13,8 +13,7 @@ Team Members: Rushabh Thakkar, Dhruv Parikh, Rahul Rajpurohit
 
 > Our proposed model aligns with the concept of dissolving challenges for the health practitioner by recommending individuals exposure to cardiovascular diseases. The concept of our system revolves around the health practitioners to predict the risk for patients to be analyzed with Cardiovascular Disease by inserting the patient’s vitals such as Systolic blood pressure ,Diastolic blood pressure , Cholesterol report, etc.
  
-
-
+## [Presentation](https://www.canva.com/design/DAFTHc6ku2Y/MOYpyeXd3z1OpL1B-XSjgg/view?utm_content=DAFTHc6ku2Y&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 > **Profiles of team member:** 
 
