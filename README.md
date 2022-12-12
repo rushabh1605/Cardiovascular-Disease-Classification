@@ -23,3 +23,10 @@ Team Members: Rushabh Thakkar, Dhruv Parikh, Rahul Rajpurohit
 [Linkedin](https://www.linkedin.com/in/rushabhthakkar/)
 [Github](https://github.com/rushabh1605)
 
+- Dhruv Parikh
+
+[Linkedin](https://www.linkedin.com/in/dhruvparikh1108/)
+[Github](https://github.com/DhruvDRE)
+
+
+
